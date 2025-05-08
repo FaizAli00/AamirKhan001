@@ -5,7 +5,7 @@ const Home = () => {
   return (
     <section 
       id="home" 
-      className="section min-h-screen flex items-center relative overflow-hidden bg-[url(/image/bg.png)] bg-cover bg-center"
+      className="section min-h-screen flex items-center relative overflow-hidden bg-[url(/image/bg1.png)] bg-cover bg-center"
     >
       {/* Carbon fiber texture overlay */}
       {/* <div className="absolute inset-0 opacity-10"
