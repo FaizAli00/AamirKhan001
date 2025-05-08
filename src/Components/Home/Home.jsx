@@ -5,10 +5,10 @@ const Home = () => {
   return (
     <section 
       id="home" 
-      className="section min-h-screen flex items-center relative overflow-hidden bg-[#050505]"
+      className="section min-h-screen flex items-center relative overflow-hidden bg-[url(/image/bg.png)] bg-cover bg-center"
     >
       {/* Carbon fiber texture overlay */}
-      <div className="absolute inset-0 opacity-10"
+      {/* <div className="absolute inset-0 opacity-10"
         style={{
           backgroundImage: `
             linear-gradient(45deg, #111 25%, transparent 25%),
@@ -19,7 +19,7 @@ const Home = () => {
           backgroundSize: '4px 4px',
           backgroundPosition: '0 0, 0 2px, 2px -2px, -2px 0px'
         }}
-      />
+      /> */}
 
       {/* Subtle vignette effect */}
       <div className="absolute inset-0 bg-radial-gradient(ellipse_at_center,rgba(0,0,0,0)_60%,rgba(0,0,0,0.8)_100%) pointer-events-none" />
@@ -68,7 +68,7 @@ const Home = () => {
 
           <div>
           
-          <motion.div
+          {/* <motion.div
           
           className="rounded-full overflow-hidden"
           animate={{
@@ -85,7 +85,7 @@ const Home = () => {
             alt="Aamir Khan" 
             className="w-full h-auto max-w-[400px] object-cover rounded-full border-4 border-[#cde633]/30 group-hover:border-[#cde633]/50 transition-all duration-500 shadow-2xl shadow-[#cde633]/20"
           />
-        </motion.div>
+        </motion.div> */}
           </div>
           
           
