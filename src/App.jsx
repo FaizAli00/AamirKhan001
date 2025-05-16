@@ -7,6 +7,7 @@ import Feedbacks from './Components/Feedbacks/Feedbacks'
 import Contact from './Components/Contact/Contact'
 import Footer from './Layouts/Footer/Footer' // Make sure to import Footer
 import Loader from './Components/Loader/Loader' // Import the Loader component
+// import AllProjects from './Components/AllProjects/AllProjects'
 
 function App() {
   const [loading, setLoading] = useState(true)
@@ -30,6 +31,7 @@ function App() {
         <Home />
         <About />
         <Projects />
+        {/* <AllProjects /> */}
         <Feedbacks />
         <Contact />
       </main>

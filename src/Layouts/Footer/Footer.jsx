@@ -86,7 +86,7 @@ const Footer = () => {
               className="text-3xl font-bold text-primary inline-block mb-6"
               whileHover={{ scale: 1.05 }}
             >
-              Jane Doe
+              Aamir Khan
             </motion.a>
             <p className="text-gray-300 mb-6">
               Creating memorable brand experiences through thoughtful design and strategic thinking.

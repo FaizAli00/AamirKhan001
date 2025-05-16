@@ -6,44 +6,44 @@ const Projects = () => {
     const projects = [
         {
           id: 1,
-          title: 'EcoLife Brand Identity',
+          title: 'Brand Identity Design',
           category: 'Branding',
-          image: '/project1.jpg',
+          image: '/projects/brand1.jpg',
           link: '#'
         },
         {
           id: 2,
-          title: 'Foodie App UI/UX',
-          category: 'UI/UX',
-          image: '/project2.jpg',
+          title: 'Logo Design',
+          category: 'Logo',
+          image: '/projects/logo1.jpg',
           link: '#'
         },
         {
           id: 3,
-          title: 'Annual Report Design',
+          title: 'Educational Portfolio Design',
           category: 'Print',
-          image: '/project3.jpg',
+          image: '/projects/edu1.jpg',
           link: '#'
         },
         {
           id: 4,
-          title: 'Coffee Packaging',
-          category: 'Packaging',
-          image: '/project4.jpg',
+          title: 'Business Card Design',
+          category: 'Card',
+          image: '/projects/card1.jpg',
           link: '#'
         },
         {
           id: 5,
-          title: 'Tech Conference Branding',
-          category: 'Branding',
-          image: '/project5.jpg',
+          title: 'Broucher Design',
+          category: 'Broucher',
+          image: '/projects/project11.jpg',
           link: '#'
         },
         {
           id: 6,
-          title: 'Fitness App UI',
-          category: 'UI/UX',
-          image: '/project6.jpg',
+          title: 'Adds Design',
+          category: 'Adds',
+          image: '/projects/project12.jpg',
           link: '#'
         },
       ];
