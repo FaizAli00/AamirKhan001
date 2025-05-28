@@ -1,0 +1,1613 @@
+[
+    {
+        "id": 1,
+        "title": "Zenith Tech Branding",
+        "category": "Branding",
+        "image": "/projects/brand1.jpg",
+        "link": "#",
+        "description": "Comprehensive brand identity for a cutting-edge tech startup, focused on innovation.",
+        "tags": ["Branding", "UI/UX", "Strategy"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "heading": "Project Overview",
+                "content": "Zenith aimed to establish a strong presence in the competitive tech market. Our task was to craft a versatile brand identity that communicates their innovative spirit and reliability. This included logo design, color palette, typography, and brand guidelines."
+            },
+            {
+                "type": "image",
+                "src": "/projects/brand2.jpg",
+                "alt": "Zenith Logo Showcase",
+                "caption": "Logo variations and mockups across digital platforms."
+            },
+            {
+                "type": "text",
+                "heading": "Challenges & Solutions",
+                "content": "The primary challenge was to create a modern yet timeless identity. We solved this by blending classic geometric shapes with a vibrant, forward-looking color scheme, ensuring scalability and memorability."
+            },
+            {
+                "type": "image",
+                "src": "/projects/brand3.jpg",
+                "alt": "Brand Guidelines Snippets",
+                "caption": "Examples from the comprehensive brand guideline document."
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "EcoBloom Sustainable Living",
+        "category": "Branding",
+        "image": "/projects/brand2.jpg",
+        "link": "#",
+        "description": "Brand identity for an eco-conscious product line, emphasizing natural and earthy tones.",
+        "tags": ["Branding", "Eco-friendly", "Packaging"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Designed to evoke a sense of nature and sustainability, EcoBloom's branding uses organic textures and a soothing color palette to appeal to environmentally aware consumers."
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "UrbanFlow Streetwear",
+        "category": "Branding",
+        "image": "/projects/brand3.jpg",
+        "link": "#",
+        "description": "Dynamic and bold branding for a contemporary streetwear apparel company.",
+        "tags": ["Branding", "Fashion", "Youth Culture"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Inspired by urban art and modern graphics, UrbanFlow's identity is edgy and expressive, resonating with a young, trend-setting audience."
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "MediCare Health Solutions",
+        "category": "Branding",
+        "image": "/projects/brand4.jpg",
+        "link": "#",
+        "description": "Trustworthy and professional branding for a new healthcare service provider.",
+        "tags": ["Branding", "Healthcare", "Corporate"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "A clean, empathetic design approach was used for MediCare, focusing on clarity and reassurance for patients and partners. The visual language promotes trust and well-being."
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Gastronomia Fine Dining",
+        "category": "Branding",
+        "image": "/projects/brand5.jpg",
+        "link": "#",
+        "description": "Sophisticated brand identity for a high-end restaurant, reflecting culinary excellence.",
+        "tags": ["Branding", "Hospitality", "Food & Beverage"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Gastronomia's brand embodies elegance and gourmet quality, with a refined logo and a rich color scheme that complements the fine dining experience."
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "title": "FutureSense AI Lab",
+        "category": "Branding",
+        "image": "/projects/brand6.jpg",
+        "link": "#",
+        "description": "Futuristic and innovative brand for an Artificial Intelligence research lab.",
+        "tags": ["Branding", "AI", "Technology"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Designing for the future, FutureSense's branding uses sleek lines and a high-tech aesthetic to convey cutting-edge research and development in AI."
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Artisan Crafts Collective",
+        "category": "Branding",
+        "image": "/projects/brand7.jpg",
+        "link": "#",
+        "description": "Handcrafted and authentic brand identity for an artisanal goods company.",
+        "tags": ["Branding", "Handmade", "E-commerce"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "A warm and inviting brand that highlights the unique, handmade quality of Artisan Crafts' products. The design focuses on organic textures and a personal touch."
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "title": "Artisan Crafts Collective – Variation II",
+        "category": "Branding",
+        "image": "/projects/brand8.jpg",
+        "link": "#",
+        "description": "Another visual identity exploration for the Artisan Crafts Collective.",
+        "tags": ["Branding", "Handmade", "E-commerce"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "A second concept showcasing alternate branding ideas for Artisan Crafts, focusing on more rustic elements and handwritten typography."
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Coffee Branding Design",
+        "category": "Branding",
+        "image": "/projects/brand9.jpg",
+        "link": "#",
+        "description": "Further brand exploration for the Artisan Crafts Collective.",
+        "tags": ["Branding", "Handmade", "E-commerce"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "A third branding variation that emphasizes cultural heritage and traditional craftsmanship, enhancing authenticity."
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Cafe Branding Design",
+        "category": "Branding",
+        "image": "/projects/brand10.jpg",
+        "link": "#",
+        "description": "Further brand exploration for the Artisan Crafts Collective.",
+        "tags": ["Branding", "Handmade", "E-commerce"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "A third branding variation that emphasizes cultural heritage and traditional craftsmanship, enhancing authenticity."
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "title": "Athletic Branding Design",
+        "category": "Branding",
+        "image": "/projects/brand11.jpg",
+        "link": "#",
+        "description": "Further brand exploration for the Artisan Crafts Collective.",
+        "tags": ["Branding", "Handmade", "E-commerce"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "A third branding variation that emphasizes cultural heritage and traditional craftsmanship, enhancing authenticity."
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "title": "Alimi Branding Design",
+        "category": "Branding",
+        "image": "/projects/brand12.jpg",
+        "link": "#",
+        "description": "Further brand exploration for the Alimi brand Collective.",
+        "tags": ["Branding", "Handmade", "E-commerce"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "A third branding variation that emphasizes cultural heritage and traditional craftsmanship, enhancing authenticity."
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "title": "Small Cafe Branding Design",
+        "category": "Branding",
+        "image": "/projects/brand13.jpg",
+        "link": "#",
+        "description": "Further brand exploration for the Artisan Crafts Collective.",
+        "tags": ["Branding", "Handmade", "E-commerce"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "A third branding variation that emphasizes cultural heritage and traditional craftsmanship, enhancing authenticity."
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "title": "Alimi Branding Design",
+        "category": "Branding",
+        "image": "/projects/brand14.jpg",
+        "link": "#",
+        "description": "Further brand exploration for the Artisan Crafts Collective.",
+        "tags": ["Branding", "Handmade", "E-commerce"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "A third branding variation that emphasizes cultural heritage and traditional craftsmanship, enhancing authenticity."
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "title": "Panda Movies Branding Design",
+        "category": "Branding",
+        "image": "/projects/brand15.jpg",
+        "link": "#",
+        "description": "Further brand exploration for the Artisan Crafts Collective.",
+        "tags": ["Branding", "Handmade", "E-commerce"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "A third branding variation that emphasizes cultural heritage and traditional craftsmanship, enhancing authenticity."
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "title": "Commssy Style Branding Design",
+        "category": "Branding",
+        "image": "/projects/brand16.jpg",
+        "link": "#",
+        "description": "Further brand exploration for the Artisan Crafts Collective.",
+        "tags": ["Branding", "Handmade", "E-commerce"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "A third branding variation that emphasizes cultural heritage and traditional craftsmanship, enhancing authenticity."
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "title": "Fast Food Branding Design",
+        "category": "Branding",
+        "image": "/projects/brand17.jpg",
+        "link": "#",
+        "description": "Further brand exploration for the Artisan Crafts Collective.",
+        "tags": ["Branding", "Handmade", "E-commerce"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "A third branding variation that emphasizes cultural heritage and traditional craftsmanship, enhancing authenticity."
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "title": "Movies Branding Design",
+        "category": "Branding",
+        "image": "/projects/brand18.jpg",
+        "link": "#",
+        "description": "Further brand exploration for the Artisan Crafts Collective.",
+        "tags": ["Branding", "Handmade", "E-commerce"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "A third branding variation that emphasizes cultural heritage and traditional craftsmanship, enhancing authenticity."
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "title": "Fast Food Branding Design",
+        "category": "Branding",
+        "image": "/projects/brand19.jpg",
+        "link": "#",
+        "description": "Further brand exploration for the Artisan Crafts Collective.",
+        "tags": ["Branding", "Handmade", "E-commerce"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "A third branding variation that emphasizes cultural heritage and traditional craftsmanship, enhancing authenticity."
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "title": "Olta Solutions Branding Design",
+        "category": "Branding",
+        "image": "/projects/brand20.jpg",
+        "link": "#",
+        "description": "Further brand exploration for the Artisan Crafts Collective.",
+        "tags": ["Branding", "Handmade", "E-commerce"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "A third branding variation that emphasizes cultural heritage and traditional craftsmanship, enhancing authenticity."
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "title": "Small Cafe Branding Design",
+        "category": "Branding",
+        "image": "/projects/brand21.jpg",
+        "link": "#",
+        "description": "Further brand exploration for the Artisan Crafts Collective.",
+        "tags": ["Branding", "Handmade", "E-commerce"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "A third branding variation that emphasizes cultural heritage and traditional craftsmanship, enhancing authenticity."
+            }
+        ]
+    },
+
+    {
+        "id": 22,
+        "title": "Minimilistic Car Logo Design",
+        "category": "Logo",
+        "image": "/projects/logo1.jpg",
+        "link": "#",
+        "description": "Further brand exploration for the Artisan Crafts Collective.",
+        "tags": ["Logo", "Handmade", "E-commerce"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "A third branding variation that emphasizes cultural heritage and traditional craftsmanship, enhancing authenticity."
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "title": "North Lova Logo Design",
+        "category": "Logo",
+        "image": "/projects/logo2.jpg",
+        "link": "#",
+        "description": "Further brand exploration for the Artisan Crafts Collective.",
+        "tags": ["Logo", "Handmade", "E-commerce"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "A Logo variation that emphasizes cultural heritage and traditional craftsmanship, enhancing authenticity."
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "title": "Motor Empire Logo Design",
+        "category": "Logo",
+        "image": "/projects/logo3.jpg",
+        "link": "#",
+        "description": "Further brand exploration for the Artisan Crafts Collective.",
+        "tags": ["Logo", "Handmade", "E-commerce"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "A Logo variation that emphasizes cultural heritage and traditional craftsmanship, enhancing authenticity."
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "title": "R Logo Design",
+        "category": "Logo",
+        "image": "/projects/logo4.jpg",
+        "link": "#",
+        "description": "Further Logo exploration for the R Crafts Collective.",
+        "tags": ["Logo", "Handmade", "E-commerce"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "A third branding variation that emphasizes cultural heritage and traditional craftsmanship, enhancing authenticity."
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "title": "Auto Garage Logo Design",
+        "category": "Logo",
+        "image": "/projects/logo5.jpg",
+        "link": "#",
+        "description": "Further Logo exploration for the Artisan Crafts Collective.",
+        "tags": ["Logo", "Handmade", "E-commerce"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "A third branding variation that emphasizes cultural heritage and traditional craftsmanship, enhancing authenticity."
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "title": "Lucarat Logo",
+        "category": "Logo",
+        "image": "/projects/logo6.jpg",
+        "link": "#",
+        "description": "Calm and serene logo for a yoga and wellness studio.",
+        "tags": ["Logo Design", "Wellness", "Fitness"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Inspired by balance and tranquility."
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "title": "Oxford Logo",
+        "category": "Logo",
+        "image": "/projects/logo7.jpg",
+        "link": "#",
+        "description": "Charming logo for a community library and reading club.",
+        "tags": ["Logo Design", "Books", "Community"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Whimsical design with a literary feel."
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "title": "Oxford Logo",
+        "category": "Logo",
+        "image": "/projects/logo8.jpg",
+        "link": "#",
+        "description": "Charming logo for a community library and reading club.",
+        "tags": ["Logo Design", "Books", "Community"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Whimsical design with a literary feel."
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "title": "LAC Logo",
+        "category": "Logo",
+        "image": "/projects/logo9.jpg",
+        "link": "#",
+        "description": "Charming logo for a community library and reading club.",
+        "tags": ["Logo Design", "Books", "Community"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Whimsical design with a literary feel."
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "title": "Scooter Speed Logo",
+        "category": "Logo",
+        "image": "/projects/logo10.jpg",
+        "link": "#",
+        "description": "Charming logo for a community library and reading club.",
+        "tags": ["Logo Design", "Books", "Community"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Whimsical design with a literary feel."
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "title": "Eagle Logo",
+        "category": "Logo",
+        "image": "/projects/logo11.jpg",
+        "link": "#",
+        "description": "Charming logo for a community library and reading club.",
+        "tags": ["Logo Design", "Books", "Community"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Whimsical design with a literary feel."
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "title": "Bird Logo",
+        "category": "Logo",
+        "image": "/projects/logo12.jpg",
+        "link": "#",
+        "description": "Charming logo for a community library and reading club.",
+        "tags": ["Logo Design", "Books", "Community"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Whimsical design with a literary feel."
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "title": "Alphabet Logo",
+        "category": "Logo",
+        "image": "/projects/logo13.webp",
+        "link": "#",
+        "description": "Charming logo for a community library and reading club.",
+        "tags": ["Logo Design", "Books", "Community"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Whimsical design with a literary feel."
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "title": "Motor Empire Logo",
+        "category": "Logo",
+        "image": "/projects/logo14.jpg",
+        "link": "#",
+        "description": "Charming logo for a community library and reading club.",
+        "tags": ["Logo Design", "Books", "Community"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Whimsical design with a literary feel."
+            }
+        ]
+    },
+
+    {
+        "id": 36,
+        "title": "Print Design",
+        "category": "Print",
+        "image": "/projects/edu.webp",
+        "link": "#",
+        "description": "Print design for an educational institution's program portfolio.",
+        "tags": ["Print Design", "Layout", "Brochure"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "heading": "Project Goal",
+                "content": "This project involved designing a comprehensive print portfolio for a leading educational institution to showcase their academic programs and achievements. The primary goal was to create an engaging and informative document that attracts prospective students and parents."
+            },
+            {
+                "type": "image",
+                "src": "/projects/edu2.jpg",
+                "alt": "Portfolio Spread 1",
+                "caption": "Inner spread demonstrating clean layout and imagery."
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "title": "Print Design 1",
+        "category": "Print",
+        "image": "/projects/print1.webp",
+        "link": "#",
+        "description": "Clean and professional design for a corporate annual report.",
+        "tags": ["Print", "Corporate", "Layout"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Designed for readability and impactful data presentation."
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "title": "Print Design 2",
+        "category": "Print",
+        "image": "/projects/print2.png",
+        "link": "#",
+        "description": "Vibrant poster designs for a multi-day music festival.",
+        "tags": ["Print", "Events", "Illustration"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Eye-catching designs to attract a young audience."
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "title": "Print Design 3",
+        "category": "Print",
+        "image": "/projects/print3.jpg",
+        "link": "#",
+        "description": "Modern editorial layout for a premium lifestyle magazine.",
+        "tags": ["Print", "Editorial", "Layout"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Focused on engaging visuals and clear typography."
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "title": "Print Design 4",
+        "category": "Print",
+        "image": "/projects/print4.png",
+        "link": "#",
+        "description": "Elegant menu and wine list design for a fine dining restaurant.",
+        "tags": ["Print", "Hospitality", "Typography"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Highlighting dishes with premium presentation."
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "title": "Print Design 5",
+        "category": "Print",
+        "image": "/projects/print5.jpg",
+        "link": "#",
+        "description": "Comprehensive product catalog design for a fashion retail brand.",
+        "tags": ["Print", "Retail", "Product Showcase"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Organized presentation of product lines."
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "title": "Print Design 6",
+        "category": "Print",
+        "image": "/projects/print6.jpg",
+        "link": "#",
+        "description": "Bespoke design for a luxury wedding invitation suite.",
+        "tags": ["Print", "Events", "Luxury"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Custom-tailored to the couple's theme."
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "title": "Print Design 7",
+        "category": "Print",
+        "image": "/projects/print7.avif",
+        "link": "#",
+        "description": "Bespoke design for a luxury wedding invitation suite.",
+        "tags": ["Print", "Events", "Luxury"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Custom-tailored to the couple's theme."
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "title": "Print Design 8",
+        "category": "Print",
+        "image": "/projects/print8.jpg",
+        "link": "#",
+        "description": "Bespoke design for a luxury wedding invitation suite.",
+        "tags": ["Print", "Events", "Luxury"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Custom-tailored to the couple's theme."
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "title": "Print Design 9",
+        "category": "Print",
+        "image": "/projects/print9.avif",
+        "link": "#",
+        "description": "Bespoke design for a luxury wedding invitation suite.",
+        "tags": ["Print", "Events", "Luxury"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Custom-tailored to the couple's theme."
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "title": "Print Design 10",
+        "category": "Print",
+        "image": "/projects/print10.webp",
+        "link": "#",
+        "description": "Bespoke design for a luxury wedding invitation suite.",
+        "tags": ["Print", "Events", "Luxury"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Custom-tailored to the couple's theme."
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "title": "Print Design 11",
+        "category": "Print",
+        "image": "/projects/print11.jpg",
+        "link": "#",
+        "description": "Bespoke design for a luxury wedding invitation suite.",
+        "tags": ["Print", "Events", "Luxury"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Custom-tailored to the couple's theme."
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "title": "Print Design 12",
+        "category": "Print",
+        "image": "/projects/print12.jpg",
+        "link": "#",
+        "description": "Bespoke design for a luxury wedding invitation suite.",
+        "tags": ["Print", "Events", "Luxury"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Custom-tailored to the couple's theme."
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "title": "Print Design 13",
+        "category": "Print",
+        "image": "/projects/print13.jpg",
+        "link": "#",
+        "description": "Bespoke design for a luxury wedding invitation suite.",
+        "tags": ["Print", "Events", "Luxury"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Custom-tailored to the couple's theme."
+            }
+        ]
+    },
+
+    {
+        "id": 50,
+        "title": "Minimal Business Card",
+        "category": "Card",
+        "image": "/projects/card1.jpg",
+        "link": "#",
+        "description": "Sleek and professional business card design with a minimalist aesthetic.",
+        "tags": ["Print", "Branding"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "heading": "Design Brief",
+                "content": "The objective was to create a modern and memorable business card that reflects professionalism and creativity. We focused on a minimalist design with a unique tactile finish."
+            },
+            {
+                "type": "image",
+                "src": "/projects/card2.jpg",
+                "alt": "Business Card Mockup",
+                "caption": "Front and back design of the business card."
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "title": "Schimth Production Card",
+        "category": "Card",
+        "image": "/projects/card2.png",
+        "link": "#",
+        "description": "Engaging loyalty program card for a local cafe.",
+        "tags": ["Card", "Retail"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Appealing design to encourage repeat business."
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "title": "Michael Smith Personal Card",
+        "category": "Card",
+        "image": "/projects/card3.jpg",
+        "link": "#",
+        "description": "Premium membership card for a high-end club.",
+        "tags": ["Card", "Luxury"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Reflecting exclusivity and high-end services."
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "title": "PC Byte Card",
+        "category": "Card",
+        "image": "/projects/card4.jpg",
+        "link": "#",
+        "description": "Festive gift card design for a holiday retail campaign.",
+        "tags": ["Card", "Seasonal"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Bright and appealing for gift-giving."
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "title": "Jonathon Doe Card",
+        "category": "Card",
+        "image": "/projects/card5.webp",
+        "link": "#",
+        "description": "Secure and stylish event access pass for a major tech conference.",
+        "tags": ["Card", "Events"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Functional yet branded access control."
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "title": "Madhu Monti Card",
+        "category": "Card",
+        "image": "/projects/card6.jpg",
+        "link": "#",
+        "description": "Official student identification card for a university.",
+        "tags": ["Card", "Education"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Clear, informative, and university-branded."
+            }
+        ]
+    },
+    {
+        "id": 56,
+        "title": "Creative Designer Card",
+        "category": "Card",
+        "image": "/projects/card7.jpg",
+        "link": "#",
+        "description": "Modern business card with integrated NFC technology for quick digital sharing.",
+        "tags": ["Card", "Technology"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Modern and interactive networking solution."
+            }
+        ]
+    },
+    {
+        "id": 57,
+        "title": "Alex Mansour Card",
+        "category": "Card",
+        "image": "/projects/card8.jpg",
+        "link": "#",
+        "description": "Modern business card with integrated NFC technology for quick digital sharing.",
+        "tags": ["Card", "Technology"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Modern and interactive networking solution."
+            }
+        ]
+    },
+    {
+        "id": 58,
+        "title": "Next X Pace Monster Card",
+        "category": "Card",
+        "image": "/projects/card9.jpg",
+        "link": "#",
+        "description": "Modern business card with integrated monster technology for quick digital sharing.",
+        "tags": ["Card", "Technology"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Modern and interactive networking solution."
+            }
+        ]
+    },
+    {
+        "id": 59,
+        "title": "Burning Chilli Card",
+        "category": "Card",
+        "image": "/projects/card10.jpg",
+        "link": "#",
+        "description": "Modern business card with integrated NFC technology for quick digital sharing.",
+        "tags": ["Card", "Technology"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Modern and interactive networking solution."
+            }
+        ]
+    },
+
+   
+    {
+        "id": 60,
+        "title": "Brochure 1",
+        "category": "Brochure",
+        "image": "/projects/broucher1.jpg",
+        "link": "#",
+        "description": "Tri-fold brochure design for a new product marketing campaign.",
+        "tags": ["Print", "Marketing"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "heading": "Campaign Goal",
+                "content": "Designed a compelling tri-fold brochure for a product launch campaign. The brochure aimed to highlight key features and benefits in an easily digestible format."
+            },
+            {
+                "type": "image",
+                "src": "/projects/brochure1.jpg",
+                "alt": "Brochure open view",
+                "caption": "Full spread of the brochure showcasing content flow."
+            }
+        ]
+    },
+    {
+        "id": 61,
+        "title": "Brochure 2",
+        "category": "Brochure",
+        "image": "/projects/broucher2.jpg",
+        "link": "#",
+        "description": "Sophisticated brochure for a high-end real estate development.",
+        "tags": ["Brochure", "Real Estate"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Showcasing property features and amenities with premium photography."
+            }
+        ]
+    },
+    {
+        "id": 62,
+        "title": "Brochure 3",
+        "category": "Brochure",
+        "image": "/projects/broucher3.jpg",
+        "link": "#",
+        "description": "Vibrant travel brochure promoting exotic adventure destinations.",
+        "tags": ["Brochure", "Travel"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Inspiring visuals and itinerary highlights."
+            }
+        ]
+    },
+    {
+        "id": 63,
+        "title": "Brochure 4",
+        "category": "Brochure",
+        "image": "/projects/broucher4.jpg",
+        "link": "#",
+        "description": "Informative brochure for an annual technology conference.",
+        "tags": ["Brochure", "Tech", "Events"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Detailed agenda and speaker profiles."
+            }
+        ]
+    },
+    {
+        "id": 64,
+        "title": "Brochure 5",
+        "category": "Brochure",
+        "image": "/projects/broucher5.jpg",
+        "link": "#",
+        "description": "Sleek brochure for a new car model launch event.",
+        "tags": ["Brochure", "Automotive"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Emphasizing performance and design."
+            }
+        ]
+    },
+    {
+        "id": 65,
+        "title": "Brochure 6",
+        "category": "Brochure",
+        "image": "/projects/broucher6.webp",
+        "link": "#",
+        "description": "Heartfelt brochure for a charitable non-profit organization.",
+        "tags": ["Brochure", "Non-Profit"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Communicating mission and impact stories."
+            }
+        ]
+    },
+    {
+        "id": 66,
+        "title": "Brochure 7",
+        "category": "Brochure",
+        "image": "/projects/broucher7.jpg",
+        "link": "#",
+        "description": "Relaxing and elegant brochure for a luxury spa and wellness retreat.",
+        "tags": ["Brochure", "Wellness"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Showcasing services and peaceful ambiance."
+            }
+        ]
+    },
+    {
+        "id": 67,
+        "title": "Brochure 8",
+        "category": "Brochure",
+        "image": "/projects/broucher8.jpg",
+        "link": "#",
+        "description": "Relaxing and elegant brochure for a luxury spa and wellness retreat.",
+        "tags": ["Brochure", "Wellness"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Showcasing services and peaceful ambiance."
+            }
+        ]
+    },
+    {
+        "id": 68,
+        "title": "Brochure 9",
+        "category": "Brochure",
+        "image": "/projects/broucher9.jpg",
+        "link": "#",
+        "description": "Relaxing and elegant brochure for a luxury spa and wellness retreat.",
+        "tags": ["Brochure", "Wellness"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Showcasing services and peaceful ambiance."
+            }
+        ]
+    },
+    {
+        "id": 69,
+        "title": "Brochure 10",
+        "category": "Brochure",
+        "image": "/projects/broucher10.jpg",
+        "link": "#",
+        "description": "Relaxing and elegant brochure for a luxury spa and wellness retreat.",
+        "tags": ["Brochure", "Wellness"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Showcasing services and peaceful ambiance."
+            }
+        ]
+    },
+    {
+        "id": 70,
+        "title": "Brochure 11",
+        "category": "Brochure",
+        "image": "/projects/broucher11.jpg",
+        "link": "#",
+        "description": "Relaxing and elegant brochure for a luxury spa and wellness retreat.",
+        "tags": ["Brochure", "Wellness"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Showcasing services and peaceful ambiance."
+            }
+        ]
+    },
+    {
+        "id": 71,
+        "title": "Brochure 12",
+        "category": "Brochure",
+        "image": "/projects/broucher12.jpg",
+        "link": "#",
+        "description": "Relaxing and elegant brochure for a luxury spa and wellness retreat.",
+        "tags": ["Brochure", "Wellness"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Showcasing services and peaceful ambiance."
+            }
+        ]
+    },
+    {
+        "id": 72,
+        "title": "Brochure 13",
+        "category": "Brochure",
+        "image": "/projects/broucher13.jpg",
+        "link": "#",
+        "description": "Relaxing and elegant brochure for a luxury spa and wellness retreat.",
+        "tags": ["Brochure", "Wellness"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Showcasing services and peaceful ambiance."
+            }
+        ]
+    },
+    {
+        "id": 73,
+        "title": "Brochure 14",
+        "category": "Brochure",
+        "image": "/projects/broucher14.jpg",
+        "link": "#",
+        "description": "Relaxing and elegant brochure for a luxury spa and wellness retreat.",
+        "tags": ["Brochure", "Wellness"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Showcasing services and peaceful ambiance."
+            }
+        ]
+    },
+    {
+        "id": 74,
+        "title": "Brochure 15",
+        "category": "Brochure",
+        "image": "/projects/broucher15.jpg",
+        "link": "#",
+        "description": "Relaxing and elegant brochure for a luxury spa and wellness retreat.",
+        "tags": ["Brochure", "Wellness"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Showcasing services and peaceful ambiance."
+            }
+        ]
+    },
+    {
+        "id": 75,
+        "title": "Brochure 16",
+        "category": "Brochure",
+        "image": "/projects/broucher16.jpg",
+        "link": "#",
+        "description": "Relaxing and elegant brochure for a luxury spa and wellness retreat.",
+        "tags": ["Brochure", "Wellness"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Showcasing services and peaceful ambiance."
+            }
+        ]
+    },
+    {
+        "id": 76,
+        "title": "Brochure 17",
+        "category": "Brochure",
+        "image": "/projects/broucher17.png",
+        "link": "#",
+        "description": "Relaxing and elegant brochure for a luxury spa and wellness retreat.",
+        "tags": ["Brochure", "Wellness"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Showcasing services and peaceful ambiance."
+            }
+        ]
+    },
+    {
+        "id": 77,
+        "title": "Brochure 18",
+        "category": "Brochure",
+        "image": "/projects/broucher18.jpg",
+        "link": "#",
+        "description": "Relaxing and elegant brochure for a luxury spa and wellness retreat.",
+        "tags": ["Brochure", "Wellness"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Showcasing services and peaceful ambiance."
+            }
+        ]
+    },
+    {
+        "id": 78,
+        "title": "Brochure 19",
+        "category": "Brochure",
+        "image": "/projects/broucher19.jpg",
+        "link": "#",
+        "description": "Relaxing and elegant brochure for a luxury spa and wellness retreat.",
+        "tags": ["Brochure", "Wellness"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Showcasing services and peaceful ambiance."
+            }
+        ]
+    },
+
+   
+    {
+        "id": 79,
+        "title": "Ads Design for Lays",
+        "category": "Ads",
+        "image": "/projects/ads1.jpg",
+        "link": "#",
+        "description": "Creative advertisement designs for various digital platforms.",
+        "tags": ["Digital Ads", "Marketing"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "heading": "Digital Ad Campaign",
+                "content": "Developed a series of digital advertisements for various online platforms, including social media and display networks. The goal was to increase brand awareness and drive traffic to the product landing page."
+            },
+            {
+                "type": "image",
+                "src": "/projects/ad1.jpg",
+                "alt": "Social Media Ad Mockup",
+                "caption": "Example of an Instagram ad design."
+            }
+        ]
+    },
+    {
+        "id": 80,
+        "title": "Ads Design for fastfood",
+        "category": "Ads",
+        "image": "/projects/ads2.jpg",
+        "link": "#",
+        "description": "Engaging ad creatives for Facebook and Instagram seasonal promotions.",
+        "tags": ["Ads", "fast food"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Designed to maximize engagement and conversions on social platforms."
+            }
+        ]
+    },
+    {
+        "id": 81,
+        "title": "Ads Design for delivery App",
+        "category": "Ads",
+        "image": "/projects/ads3.jpg",
+        "link": "#",
+        "description": "Animated and static banner ads for Google Display Network campaigns.",
+        "tags": ["Ads", "Display"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Optimized for various sizes and strong call-to-actions."
+            }
+        ]
+    },
+    {
+        "id": 82,
+        "title": "Ads Design for Food App",
+        "category": "Ads",
+        "image": "/projects/ads4.jpg",
+        "link": "#",
+        "description": "Full-page print advertisements for a luxury lifestyle magazine.",
+        "tags": ["Ads", "Print"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "High-resolution and visually striking for premium publications."
+            }
+        ]
+    },
+    {
+        "id": 83,
+        "title": "Ads Design for Coffee Shop",
+        "category": "Ads",
+        "image": "/projects/ads5.jpg",
+        "link": "#",
+        "description": "Promotional banners for various email marketing campaigns.",
+        "tags": ["Ads", "Email"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Clean and concise designs with clear messaging."
+            }
+        ]
+    },
+    {
+        "id": 84,
+        "title": "Ads Design for Tokopedia App",
+        "category": "Ads",
+        "image": "/projects/ads6.jpg",
+        "link": "#",
+        "description": "Large-scale billboard designs for prominent urban locations.",
+        "tags": ["Ads", "Outdoor"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Bold and concise designs for maximum impact at a glance."
+            }
+        ]
+    },
+    {
+        "id": 85,
+        "title": "Ads Design for shoes brand",
+        "category": "Ads",
+        "image": "/projects/ads7.jpg",
+        "link": "#",
+        "description": "Dynamic animated web banners for online promotional campaigns.",
+        "tags": ["Ads", "Animation"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Grabbing attention with subtle animations and transitions."
+            }
+        ]
+    },
+    {
+        "id": 86,
+        "title": "Ads Design for Fashion brand",
+        "category": "Ads",
+        "image": "/projects/ads8.jpg",
+        "link": "#",
+        "description": "Dynamic animated web banners for online promotional campaigns.",
+        "tags": ["Ads", "Animation"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Grabbing attention with subtle animations and transitions."
+            }
+        ]
+    },
+    {
+        "id": 87,
+        "title": "Ads Design for Sun Cream",
+        "category": "Ads",
+        "image": "/projects/ads9.jpg",
+        "link": "#",
+        "description": "Dynamic animated web banners for online promotional campaigns.",
+        "tags": ["Ads", "Animation"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Grabbing attention with subtle animations and transitions."
+            }
+        ]
+    },
+    {
+        "id": 88,
+        "title": "Ads Design for Topicana Juice",
+        "category": "Ads",
+        "image": "/projects/ads10.jpg",
+        "link": "#",
+        "description": "Dynamic animated web banners for online promotional campaigns.",
+        "tags": ["Ads", "Animation"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Grabbing attention with subtle animations and transitions."
+            }
+        ]
+    },
+    {
+        "id": 89,
+        "title": "Ads Design for shopping App",
+        "category": "Ads",
+        "image": "/projects/ads11.jpg",
+        "link": "#",
+        "description": "Dynamic animated web banners for online promotional campaigns.",
+        "tags": ["Ads", "Animation"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Grabbing attention with subtle animations and transitions."
+            }
+        ]
+    },
+    {
+        "id": 90,
+        "title": "Ads Design for Nescafe Coffee",
+        "category": "Ads",
+        "image": "/projects/ads12.jpg",
+        "link": "#",
+        "description": "Dynamic animated web banners for online promotional campaigns.",
+        "tags": ["Ads", "Animation"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Grabbing attention with subtle animations and transitions."
+            }
+        ]
+    },
+    {
+        "id": 91,
+        "title": "Ads Design for Fashion brand 2",
+        "category": "Ads",
+        "image": "/projects/ads13.jpg",
+        "link": "#",
+        "description": "Dynamic animated web banners for online promotional campaigns.",
+        "tags": ["Ads", "Animation"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Grabbing attention with subtle animations and transitions."
+            }
+        ]
+    },
+    {
+        "id": 92,
+        "title": "Ads Design for Delivery App",
+        "category": "Ads",
+        "image": "/projects/ads14.jpg",
+        "link": "#",
+        "description": "Dynamic animated web banners for online promotional campaigns.",
+        "tags": ["Ads", "Animation"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Grabbing attention with subtle animations and transitions."
+            }
+        ]
+    },
+    {
+        "id": 93,
+        "title": "Ads Design for DellyCook brand",
+        "category": "Ads",
+        "image": "/projects/ads15.jpg",
+        "link": "#",
+        "description": "Dynamic animated web banners for online promotional campaigns.",
+        "tags": ["Ads", "Animation"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Grabbing attention with subtle animations and transitions."
+            }
+        ]
+    },
+    {
+        "id": 94,
+        "title": "Ads Design for Clothing Fashion brand",
+        "category": "Ads",
+        "image": "/projects/ads15.jpg",
+        "link": "#",
+        "description": "Dynamic animated web banners for online promotional campaigns.",
+        "tags": ["Ads", "Animation"],
+        "detailedContent": [
+            {
+                "type": "text",
+                "content": "Grabbing attention with subtle animations and transitions."
+            }
+        ]
+    },
+
+    {
+    "id": 95,
+    "title": "Instagram Campaign",
+    "category": "Ads", 
+    "image": "/projects/social1.jpeg",
+    "link": "#",
+    "description": "Social media campaign for fashion brand",
+    "tags": ["Social Media", "Instagram", "Campaign"],
+    "detailedContent": [
+        { "type": "text", "content": "Created Instagram posts and stories..." }
+    ]
+},
+{
+        "id": 96,
+        "title": "Facebook Brand Awareness",
+        "category": "Ads",
+        "image": "/projects/social2.jpeg",
+        "link": "#",
+        "description": "Facebook campaign to increase brand recognition",
+        "tags": ["Social Media", "Facebook", "Brand Awareness"],
+        "detailedContent": [
+            { "type": "text", "content": "Developed a 30-day Facebook campaign with targeted ads and organic content to boost brand visibility among our core demographic." },
+            { "type": "image", "src": "/projects/social2a.jpg", "alt": "Facebook ad examples", "caption": "Sample ad creatives from the campaign" }
+        ]
+    },
+    {
+        "id": 97,
+        "title": "Twitter Engagement Boost",
+        "category": "Social",
+        "image": "/projects/social3.jpeg",
+        "link": "#",
+        "description": "Strategy to increase Twitter interactions",
+        "tags": ["Social Media", "Twitter", "Engagement"],
+        "detailedContent": [
+            { "type": "text", "content": "Implemented a Twitter engagement strategy including scheduled tweets, polls, and thread campaigns that increased our engagement rate by 78%." }
+        ]
+    },
+    {
+        "id": 98,
+        "title": "LinkedIn B2B Campaign",
+        "category": "Ads",
+        "image": "/projects/social4.jpeg",
+        "link": "#",
+        "description": "LinkedIn campaign targeting business clients",
+        "tags": ["Social Media", "LinkedIn", "B2B"],
+        "detailedContent": [
+            { "type": "text", "content": "Created targeted LinkedIn ads and content strategy to reach decision-makers in our industry, resulting in 45 qualified leads." }
+        ]
+    },
+    {
+        "id": 99,
+        "title": "TikTok Viral Challenge",
+        "category": "Social",
+        "image": "/projects/social5.jpeg",
+        "link": "#",
+        "description": "Hashtag challenge campaign on TikTok",
+        "tags": ["Social Media", "TikTok", "Viral"],
+        "detailedContent": [
+            { "type": "text", "content": "Designed and executed a branded hashtag challenge that generated over 500,000 user-generated videos and 15M+ views." },
+            { "type": "image", "src": "/projects/social5a.jpg", "alt": "TikTok challenge examples", "caption": "Top performing user submissions" }
+        ]
+    },
+    {
+        "id": 100,
+        "title": "YouTube Influencer Collab",
+        "category": "Social",
+        "image": "/projects/social6.jpeg",
+        "link": "#",
+        "description": "Collaboration with YouTube creators",
+        "tags": ["Social Media", "YouTube", "Influencer"],
+        "detailedContent": [
+            { "type": "text", "content": "Partnered with 5 mid-tier YouTube creators in our niche to produce authentic product reviews and tutorials." }
+        ]
+    },
+    {
+        "id": 101,
+        "title": "Pinterest Visual Strategy",
+        "category": "Social",
+        "image": "/projects/social7.jpeg",
+        "link": "#",
+        "description": "Pinterest marketing for e-commerce",
+        "tags": ["Social Media", "Pinterest", "E-commerce"],
+        "detailedContent": [
+            { "type": "text", "content": "Developed a Pinterest content strategy with optimized pins that drove 35% more traffic to our product pages." }
+        ]
+    },
+    {
+        "id": 102,
+        "title": "Instagram Reels Series",
+        "category": "Social",
+        "image": "/projects/social8.jpeg",
+        "link": "#",
+        "description": "Educational Reels content series",
+        "tags": ["Social Media", "Instagram", "Reels"],
+        "detailedContent": [
+            { "type": "text", "content": "Produced a 10-part educational Reels series that grew our Instagram following by 12K in 30 days." }
+        ]
+    },
+    {
+        "id": 103,
+        "title": "Reddit Community Building",
+        "category": "Social",
+        "image": "/projects/social9.jpeg",
+        "link": "#",
+        "description": "Organic community growth on Reddit",
+        "tags": ["Social Media", "Reddit", "Community"],
+        "detailedContent": [
+            { "type": "text", "content": "Established authentic presence in relevant subreddits, providing value and building trust with our target audience." }
+        ]
+    },
+    {
+        "id": 104,
+        "title": "Snapchat AR Filter",
+        "category": "Ads",
+        "image": "/projects/social10.jpeg",
+        "link": "#",
+        "description": "Branded AR filter campaign",
+        "tags": ["Social Media", "Snapchat", "AR"],
+        "detailedContent": [
+            { "type": "text", "content": "Created a branded AR filter that was used 250,000+ times during our product launch week." },
+            { "type": "image", "src": "/projects/social10a.jpg", "alt": "AR filter examples", "caption": "Users interacting with our branded filter" }
+        ]
+    },
+    {
+        "id": 105,
+        "title": "Twitter Spaces Series",
+        "category": "Social",
+        "image": "/projects/social11.jpeg",
+        "link": "#",
+        "description": "Audio discussion series on Twitter",
+        "tags": ["Social Media", "Twitter", "Audio"],
+        "detailedContent": [
+            { "type": "text", "content": "Hosted weekly Twitter Spaces with industry experts, averaging 1,200 live listeners per session." }
+        ]
+    },
+    {
+        "id": 106,
+        "title": "Meta Cross-Platform Campaign",
+        "category": "Ads",
+        "image": "/projects/social12.jpeg",
+        "link": "#",
+        "description": "Unified campaign across Facebook/Instagram",
+        "tags": ["Social Media", "Meta", "Cross-Platform"],
+        "detailedContent": [
+            { "type": "text", "content": "Coordinated campaign across Facebook and Instagram with consistent messaging and creative adaptation for each platform." }
+        ]
+    }
+]

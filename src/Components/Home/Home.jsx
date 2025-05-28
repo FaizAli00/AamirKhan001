@@ -42,18 +42,10 @@ const Home = () => {
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}
               >
-                <span className="relative z-10">View My Work</span>
+                <span className="relative z-10">Hire Me</span>
                 <FiArrowRight className="ml-2 group-hover:translate-x-1 transition-transform relative z-10" />
               </motion.a>
-              <motion.a
-                href="#contact"
-                className="flex items-center justify-center bg-[#cde633] border-2 border-emerald-400 hover:bg-emerald-700 hover:text-[#fff] text-emerald-700 px-6 py-3 sm:px-8 sm:py-4 rounded-full font-bold transition-all group relative overflow-hidden"
-                whileHover={{ scale: 1.05 }}
-                whileTap={{ scale: 0.95 }}
-              >
-                <span className="relative z-10">Download Resume</span>
-                <FiArrowRight className="ml-2 group-hover:translate-x-1 transition-transform relative z-10" />
-              </motion.a>
+              
             </div>
           </motion.div>
 

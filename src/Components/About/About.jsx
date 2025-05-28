@@ -51,17 +51,17 @@ const About = () => {
             <div className="grid grid-cols-3 gap-4">
               <div className="bg-dark text-light p-4 rounded-lg text-center">
                 <FiAward className="text-primary text-3xl mx-auto mb-2" />
-                <span className="text-2xl font-bold block">15+</span>
+                <span className="text-2xl font-bold block">50+</span>
                 <span>Awards</span>
               </div>
               <div className="bg-dark text-light p-4 rounded-lg text-center">
                 <FiBriefcase className="text-primary text-3xl mx-auto mb-2" />
-                <span className="text-2xl font-bold block">120+</span>
+                <span className="text-2xl font-bold block">200+</span>
                 <span>Projects</span>
               </div>
               <div className="bg-dark text-light p-4 rounded-lg text-center">
                 <FiUsers className="text-primary text-3xl mx-auto mb-2" />
-                <span className="text-2xl font-bold block">80+</span>
+                <span className="text-2xl font-bold block">100+</span>
                 <span>Clients</span>
               </div>
             </div>
