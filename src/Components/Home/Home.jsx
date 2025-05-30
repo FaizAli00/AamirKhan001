@@ -30,14 +30,19 @@ const Home = () => {
               </span>
             </h1>
             <h2 className="text-3xl md:text-4xl mb-6 text-white font-medium">
-              Senior <span className="text-[#cde633]">Graphic</span> Designer
+              Senior <span className="text-[#cde633]">Graphic</span> Designer &
+            </h2>
+            <h2 className="text-3xl md:text-3xl mb-6 text-white font-medium">
+              Brand <span className="text-[#cde633]">Identity</span> Designer
             </h2>
             <p className="text-lg mb-8 max-w-lg text-gray-300 leading-relaxed">
               Crafting visually stunning brand experiences with precision and dark aesthetic mastery.
             </p>
             <div className='flex flex-col sm:flex-row gap-4 sm:gap-6'>
               <motion.a
-                href="#portfolio"
+                href="https://www.upwork.com/freelancers/aamirkhan54?mp_source=share" // Changed href to your Upwork profile
+                target="_blank" // Opens in a new tab
+                rel="noopener noreferrer" // Recommended for security when using target="_blank"
                 className="flex items-center justify-center bg-[#cde633] border-2 border-emerald-400 hover:bg-emerald-700 hover:text-[#fff] text-emerald-700 px-6 py-3 sm:px-8 sm:py-4 rounded-full font-bold transition-all group relative overflow-hidden"
                 whileHover={{ scale: 1.05 }}
                 whileTap={{ scale: 0.95 }}

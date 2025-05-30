@@ -1,12 +1,12 @@
 [
     {
         "id": 1,
-        "title": "Zenith Tech Branding",
+        "title": "Zenith Tech Branding Design",
         "category": "Branding",
         "image": "/projects/brand1.jpg",
         "link": "#",
         "description": "Comprehensive brand identity for a cutting-edge tech startup, focused on innovation.",
-        "tags": ["Branding", "UI/UX", "Strategy"],
+        "tags": ["Branding", "UI/UX", "Design"],
         "detailedContent": [
             {
                 "type": "text",
@@ -34,12 +34,12 @@
     },
     {
         "id": 2,
-        "title": "EcoBloom Sustainable Living",
+        "title": "Booklet Branding Design",
         "category": "Branding",
         "image": "/projects/brand2.jpg",
         "link": "#",
-        "description": "Brand identity for an eco-conscious product line, emphasizing natural and earthy tones.",
-        "tags": ["Branding", "Eco-friendly", "Packaging"],
+        "description": "Brand identity for an Bookline product line, emphasizing natural and earthy tones.",
+        "tags": ["Branding", "UI/UX", "Design"],
         "detailedContent": [
             {
                 "type": "text",
@@ -49,12 +49,12 @@
     },
     {
         "id": 3,
-        "title": "UrbanFlow Streetwear",
+        "title": "Pixel Branding Design",
         "category": "Branding",
         "image": "/projects/brand3.jpg",
         "link": "#",
-        "description": "Dynamic and bold branding for a contemporary streetwear apparel company.",
-        "tags": ["Branding", "Fashion", "Youth Culture"],
+        "description": "Dynamic and bold branding for a Pixel Booklet apparel company.",
+        "tags": ["Branding", "UI/UX", "Design"],
         "detailedContent": [
             {
                 "type": "text",
@@ -64,42 +64,42 @@
     },
     {
         "id": 4,
-        "title": "MediCare Health Solutions",
+        "title": "LegioWeb Branding Design",
         "category": "Branding",
         "image": "/projects/brand4.jpg",
         "link": "#",
-        "description": "Trustworthy and professional branding for a new healthcare service provider.",
-        "tags": ["Branding", "Healthcare", "Corporate"],
+        "description": "Trustworthy and professional branding for a new LegioWen Branding Design.",
+        "tags": ["Branding", "UI/UX", "Design"],
         "detailedContent": [
             {
                 "type": "text",
-                "content": "A clean, empathetic design approach was used for MediCare, focusing on clarity and reassurance for patients and partners. The visual language promotes trust and well-being."
+                "content": "A clean, empathetic design approach was used for LegioWeb Brand, focusing on clarity and reassurance for patients and partners. The visual language promotes trust and well-being."
             }
         ]
     },
     {
         "id": 5,
-        "title": "Gastronomia Fine Dining",
+        "title": "Elephant Coffee Branding Design",
         "category": "Branding",
         "image": "/projects/brand5.jpg",
         "link": "#",
-        "description": "Sophisticated brand identity for a high-end restaurant, reflecting culinary excellence.",
-        "tags": ["Branding", "Hospitality", "Food & Beverage"],
+        "description": "Sophisticated brand identity for a Coffee restaurant, reflecting culinary excellence.",
+        "tags": ["Branding", "UI/UX", "Design"],
         "detailedContent": [
             {
                 "type": "text",
-                "content": "Gastronomia's brand embodies elegance and gourmet quality, with a refined logo and a rich color scheme that complements the fine dining experience."
+                "content": "Gastronomia's brand embodies excellent and gourmet quality, with a refined logo and a rich color scheme that complements the fine dining experience."
             }
         ]
     },
     {
         "id": 6,
-        "title": "FutureSense AI Lab",
+        "title": "Enivise Branding Design",
         "category": "Branding",
         "image": "/projects/brand6.jpg",
         "link": "#",
-        "description": "Futuristic and innovative brand for an Artificial Intelligence research lab.",
-        "tags": ["Branding", "AI", "Technology"],
+        "description": "Futuristic and innovative brand for an Enivise Branding Design.",
+        "tags": ["Branding", "UI/UX", "Design"],
         "detailedContent": [
             {
                 "type": "text",
@@ -109,42 +109,42 @@
     },
     {
         "id": 7,
-        "title": "Artisan Crafts Collective",
+        "title": "Golland Branding Design",
         "category": "Branding",
         "image": "/projects/brand7.jpg",
         "link": "#",
-        "description": "Handcrafted and authentic brand identity for an artisanal goods company.",
-        "tags": ["Branding", "Handmade", "E-commerce"],
+        "description": "Handcrafted and authentic brand identity for an Golland Branding Design company.",
+        "tags": ["Branding", "UI/UX", "Design"],
         "detailedContent": [
             {
                 "type": "text",
-                "content": "A warm and inviting brand that highlights the unique, handmade quality of Artisan Crafts' products. The design focuses on organic textures and a personal touch."
+                "content": "A warm and Golland brand that highlights the unique, handmade quality of Artisan Crafts' products. The design focuses on organic textures and a personal touch."
             }
         ]
     },
     {
         "id": 8,
-        "title": "Artisan Crafts Collective – Variation II",
+        "title": "Kadosh Branding Design",
         "category": "Branding",
         "image": "/projects/brand8.jpg",
         "link": "#",
-        "description": "Another visual identity exploration for the Artisan Crafts Collective.",
-        "tags": ["Branding", "Handmade", "E-commerce"],
+        "description": "Another visual identity exploration for Kadosh Branding Design.",
+        "tags": ["Branding", "UI/UX", "Design"],
         "detailedContent": [
             {
                 "type": "text",
-                "content": "A second concept showcasing alternate branding ideas for Artisan Crafts, focusing on more rustic elements and handwritten typography."
+                "content": "A second concept showcasing alternate branding ideas for Kadosh Branding Design, focusing on more rustic elements and handwritten typography."
             }
         ]
     },
     {
         "id": 9,
-        "title": "Coffee Branding Design",
+        "title": "Viviet Foodcafe Branding Design",
         "category": "Branding",
         "image": "/projects/brand9.jpg",
         "link": "#",
-        "description": "Further brand exploration for the Artisan Crafts Collective.",
-        "tags": ["Branding", "Handmade", "E-commerce"],
+        "description": "Further brand exploration for the Viviet Foodcafe Branding Design",
+        "tags": ["Branding", "UI/UX", "Design"],
         "detailedContent": [
             {
                 "type": "text",
@@ -154,12 +154,12 @@
     },
     {
         "id": 10,
-        "title": "Cafe Branding Design",
+        "title": "Mocana Card Branding Design",
         "category": "Branding",
         "image": "/projects/brand10.jpg",
         "link": "#",
-        "description": "Further brand exploration for the Artisan Crafts Collective.",
-        "tags": ["Branding", "Handmade", "E-commerce"],
+        "description": "Further brand exploration for the Mocana Card Branding Design.",
+        "tags": ["Branding", "UI/UX", "Design"],
         "detailedContent": [
             {
                 "type": "text",
@@ -169,12 +169,12 @@
     },
     {
         "id": 11,
-        "title": "Athletic Branding Design",
+        "title": "Coffee Cafe Branding Design",
         "category": "Branding",
         "image": "/projects/brand11.jpg",
         "link": "#",
-        "description": "Further brand exploration for the Artisan Crafts Collective.",
-        "tags": ["Branding", "Handmade", "E-commerce"],
+        "description": "Further brand exploration for the Coffee Cafe Branding Design.",
+        "tags": ["Branding", "UI/UX", "Design"],
         "detailedContent": [
             {
                 "type": "text",
@@ -184,12 +184,12 @@
     },
     {
         "id": 12,
-        "title": "Alimi Branding Design",
+        "title": "Cafe84 Branding Design",
         "category": "Branding",
         "image": "/projects/brand12.jpg",
         "link": "#",
-        "description": "Further brand exploration for the Alimi brand Collective.",
-        "tags": ["Branding", "Handmade", "E-commerce"],
+        "description": "Further brand exploration for the Cafe84 Branding Design.",
+        "tags": ["Branding", "UI/UX", "Design"],
         "detailedContent": [
             {
                 "type": "text",
@@ -199,12 +199,12 @@
     },
     {
         "id": 13,
-        "title": "Small Cafe Branding Design",
+        "title": "Sano Athletic Branding Design",
         "category": "Branding",
         "image": "/projects/brand13.jpg",
         "link": "#",
-        "description": "Further brand exploration for the Artisan Crafts Collective.",
-        "tags": ["Branding", "Handmade", "E-commerce"],
+        "description": "Further brand exploration for the Sano Athletic Branding Design.",
+        "tags": ["Branding", "UI/UX", "Design"],
         "detailedContent": [
             {
                 "type": "text",
@@ -214,12 +214,12 @@
     },
     {
         "id": 14,
-        "title": "Alimi Branding Design",
+        "title": "Wumb Tshirt Branding Design",
         "category": "Branding",
         "image": "/projects/brand14.jpg",
         "link": "#",
-        "description": "Further brand exploration for the Artisan Crafts Collective.",
-        "tags": ["Branding", "Handmade", "E-commerce"],
+        "description": "Further brand exploration for the Wumb Tshirt Branding Design.",
+        "tags": ["Branding", "UI/UX", "Design"],
         "detailedContent": [
             {
                 "type": "text",
@@ -229,12 +229,12 @@
     },
     {
         "id": 15,
-        "title": "Panda Movies Branding Design",
+        "title": "Alimi Card Branding Design",
         "category": "Branding",
         "image": "/projects/brand15.jpg",
         "link": "#",
-        "description": "Further brand exploration for the Artisan Crafts Collective.",
-        "tags": ["Branding", "Handmade", "E-commerce"],
+        "description": "Further brand exploration for the Alimi Card Branding Design.",
+        "tags": ["Branding", "UI/UX", "Design"],
         "detailedContent": [
             {
                 "type": "text",
@@ -244,12 +244,12 @@
     },
     {
         "id": 16,
-        "title": "Commssy Style Branding Design",
+        "title": "Small Cafe Branding Design",
         "category": "Branding",
         "image": "/projects/brand16.jpg",
         "link": "#",
-        "description": "Further brand exploration for the Artisan Crafts Collective.",
-        "tags": ["Branding", "Handmade", "E-commerce"],
+        "description": "Further brand exploration for the Small Cafe Branding Design.",
+        "tags": ["Branding", "UI/UX", "Design"],
         "detailedContent": [
             {
                 "type": "text",
@@ -259,12 +259,12 @@
     },
     {
         "id": 17,
-        "title": "Fast Food Branding Design",
+        "title": "VOA Homepage Branding Design",
         "category": "Branding",
         "image": "/projects/brand17.jpg",
         "link": "#",
-        "description": "Further brand exploration for the Artisan Crafts Collective.",
-        "tags": ["Branding", "Handmade", "E-commerce"],
+        "description": "Further brand exploration for the VOA Homepage Branding Design.",
+        "tags": ["Branding", "UI/UX", "Design"],
         "detailedContent": [
             {
                 "type": "text",
@@ -274,12 +274,12 @@
     },
     {
         "id": 18,
-        "title": "Movies Branding Design",
+        "title": "Panda Movies Branding Design",
         "category": "Branding",
         "image": "/projects/brand18.jpg",
         "link": "#",
-        "description": "Further brand exploration for the Artisan Crafts Collective.",
-        "tags": ["Branding", "Handmade", "E-commerce"],
+        "description": "Further brand exploration for the Panda Movies Branding Design.",
+        "tags": ["Branding", "UI/UX", "Design"],
         "detailedContent": [
             {
                 "type": "text",
@@ -289,12 +289,12 @@
     },
     {
         "id": 19,
-        "title": "Fast Food Branding Design",
+        "title": "Commssy Shop Branding Design",
         "category": "Branding",
         "image": "/projects/brand19.jpg",
         "link": "#",
-        "description": "Further brand exploration for the Artisan Crafts Collective.",
-        "tags": ["Branding", "Handmade", "E-commerce"],
+        "description": "Further brand exploration for the Commssy Shop Branding Design.",
+        "tags": ["Branding", "UI/UX", "Design"],
         "detailedContent": [
             {
                 "type": "text",
@@ -304,12 +304,12 @@
     },
     {
         "id": 20,
-        "title": "Olta Solutions Branding Design",
+        "title": "Street Food Branding Design",
         "category": "Branding",
         "image": "/projects/brand20.jpg",
         "link": "#",
-        "description": "Further brand exploration for the Artisan Crafts Collective.",
-        "tags": ["Branding", "Handmade", "E-commerce"],
+        "description": "Further brand exploration for the Street Food Branding Design.",
+        "tags": ["Branding", "UI/UX", "Design"],
         "detailedContent": [
             {
                 "type": "text",
@@ -319,12 +319,12 @@
     },
     {
         "id": 21,
-        "title": "Small Cafe Branding Design",
+        "title": "Olta Branding Design",
         "category": "Branding",
         "image": "/projects/brand21.jpg",
         "link": "#",
-        "description": "Further brand exploration for the Artisan Crafts Collective.",
-        "tags": ["Branding", "Handmade", "E-commerce"],
+        "description": "Further brand exploration for the Olta Branding Design.",
+        "tags": ["Branding", "UI/UX", "Design"],
         "detailedContent": [
             {
                 "type": "text",
@@ -340,7 +340,7 @@
         "image": "/projects/logo1.jpg",
         "link": "#",
         "description": "Further brand exploration for the Artisan Crafts Collective.",
-        "tags": ["Logo", "Handmade", "E-commerce"],
+        "tags": ["Logo", "UI/UX", "Design"],
         "detailedContent": [
             {
                 "type": "text",
@@ -355,7 +355,7 @@
         "image": "/projects/logo2.jpg",
         "link": "#",
         "description": "Further brand exploration for the Artisan Crafts Collective.",
-        "tags": ["Logo", "Handmade", "E-commerce"],
+        "tags": ["Logo", "UI/UX", "Design"],
         "detailedContent": [
             {
                 "type": "text",
@@ -370,7 +370,7 @@
         "image": "/projects/logo3.jpg",
         "link": "#",
         "description": "Further brand exploration for the Artisan Crafts Collective.",
-        "tags": ["Logo", "Handmade", "E-commerce"],
+        "tags": ["Logo", "UI/UX", "Design"],
         "detailedContent": [
             {
                 "type": "text",
@@ -385,7 +385,7 @@
         "image": "/projects/logo4.jpg",
         "link": "#",
         "description": "Further Logo exploration for the R Crafts Collective.",
-        "tags": ["Logo", "Handmade", "E-commerce"],
+        "tags": ["Logo", "UI/UX", "Design"],
         "detailedContent": [
             {
                 "type": "text",
@@ -400,7 +400,7 @@
         "image": "/projects/logo5.jpg",
         "link": "#",
         "description": "Further Logo exploration for the Artisan Crafts Collective.",
-        "tags": ["Logo", "Handmade", "E-commerce"],
+        "tags": ["Logo", "UI/UX", "Design"],
         "detailedContent": [
             {
                 "type": "text",
@@ -588,7 +588,7 @@
         "image": "/projects/print2.png",
         "link": "#",
         "description": "Vibrant poster designs for a multi-day music festival.",
-        "tags": ["Print", "Events", "Illustration"],
+        "tags": ["Print", "Events", "Design"],
         "detailedContent": [
             {
                 "type": "text",
@@ -1543,8 +1543,8 @@
         "category": "Social",
         "image": "/projects/social7.jpeg",
         "link": "#",
-        "description": "Pinterest marketing for e-commerce",
-        "tags": ["Social Media", "Pinterest", "E-commerce"],
+        "description": "Pinterest marketing for I Design",
+        "tags": ["Social Media", "Pinterest", "Design"],
         "detailedContent": [
             { "type": "text", "content": "Developed a Pinterest content strategy with optimized pins that drove 35% more traffic to our product pages." }
         ]

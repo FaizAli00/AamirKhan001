@@ -119,10 +119,10 @@ const Contact = () => {
                 <div>
                   <h3 className="text-xl font-bold mb-2">Email Me</h3>
                   <a
-                    href="mailto:jane@designer.com"
+                    href="mailto:sokhmir111@gmail"
                     className="hover:text-primary transition-colors"
                   >
-                    jane@designer.com
+                    sokhmir111@gmail
                   </a>
                 </div>
               </div>
@@ -133,7 +133,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <h3 className="text-xl font-bold mb-2">Location</h3>
-                  <p>San Francisco, CA</p>
+                  <p>Gilgit Baltistan</p>
                 </div>
               </div>
 
@@ -144,10 +144,10 @@ const Contact = () => {
                 <div>
                   <h3 className="text-xl font-bold mb-2">Call Me</h3>
                   <a
-                    href="tel:+1234567890"
+                    href="tel:+923485370121"
                     className="hover:text-primary transition-colors"
                   >
-                    +1 (234) 567-890
+                    +923485370121
                   </a>
                 </div>
               </div>
@@ -157,18 +157,18 @@ const Contact = () => {
                   Follow Me
                 </h3>
                 <div className="flex space-x-4">
-                  <motion.a
-                    href="#"
+                  {/* <motion.a
+                    href=""
                     className="bg-gray-800 hover:bg-gray-700 w-12 h-12 rounded-full flex items-center justify-center text-gray-300 hover:text-white transition-all"
                     whileHover={{ y: -5 }}
                     transition={{ delay: 0.1 }}
                     aria-label="Dribbble"
                   >
                     <FaDribbble className="text-xl" />
-                  </motion.a>
+                  </motion.a> */}
 
                   <motion.a
-                    href="#"
+                    href=""
                     className="bg-gray-800 hover:bg-gray-700 w-12 h-12 rounded-full flex items-center justify-center text-gray-300 hover:text-white transition-all"
                     whileHover={{ y: -5 }}
                     transition={{ delay: 0.2 }}
@@ -178,7 +178,8 @@ const Contact = () => {
                   </motion.a>
 
                   <motion.a
-                    href="#"
+                    href="https://www.linkedin.com/in/aamir-khan-336b4321b/"
+                    target="blank"
                     className="bg-gray-800 hover:bg-gray-700 w-12 h-12 rounded-full flex items-center justify-center text-gray-300 hover:text-white transition-all"
                     whileHover={{ y: -5 }}
                     transition={{ delay: 0.3 }}
@@ -188,7 +189,8 @@ const Contact = () => {
                   </motion.a>
 
                   <motion.a
-                    href="#"
+                    href="https://www.instagram.com/boy_fromthe_north?igsh=NWRpbXducGE1NGJ2"
+                    target="blank"
                     className="bg-gray-800 hover:bg-gray-700 w-12 h-12 rounded-full flex items-center justify-center text-gray-300 hover:text-white transition-all"
                     whileHover={{ y: -5 }}
                     transition={{ delay: 0.4 }}

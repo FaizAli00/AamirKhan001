@@ -7,34 +7,112 @@ import { Pagination, Autoplay } from 'swiper/modules';
 
 const Feedbacks = () => {
   const testimonials = [
-    {
-      id: 1,
-      name: 'Alex Rivera',
-      role: 'Creative Director, BrandWorks',
-      content: 'Working with this designer transformed our entire product line. Their attention to detail and creative vision elevated our brand beyond expectations.',
-      avatar: '/avatars/alex-rivera.jpg'
-    },
+   {
+  id: 1,
+  name: 'Alvan',
+  role: 'Creative Director, BrandWorks',
+  content: `Aamir did a great job with my graphic design. Works quickly, and is talented.
+Would hire again`, 
+  avatar: '/avatars/alex-rivera.jpg'
+},
     {
       id: 2,
-      name: 'Sarah Chen',
+      name: 'Pheonix',
       role: 'Marketing Head, TechNova',
-      content: 'Exceptional design work that perfectly captured our brand essence. The deliverables were not just beautiful but strategically effective.',
+      content: 'Aamir is Really good at his job. He is very professional and always delivers on time.',
       avatar: '/avatars/sarah-chen.jpg'
     },
     {
       id: 3,
-      name: 'James Wilson',
+      name: 'Jenna',
       role: 'CEO, StartupX',
-      content: 'The designs exceeded our expectations and helped us secure Series A funding. Our investors were particularly impressed with the UI/UX work.',
+      content: 'Aamir was really kind and great at communicating. He made sure I was happy with the final product.',
       avatar: '/avatars/james-wilson.jpg'
     },
     {
       id: 4,
-      name: 'Emma Thompson',
+      name: 'Frank',
       role: 'Art Director, CreativeCo',
-      content: 'Absolutely stunning work! The designer understood our vision immediately and delivered beyond what we imagined possible.',
+      content: 'Aamir did an outstanding job designing Facebook ad graphics for us! His attention to detail, creativity, and ability to deliver engaging visuals exceeded our expectations.',
       avatar: '/avatars/emma-thompson.jpg'
-    }
+    },
+    {
+      id: 5,
+      name: 'Rothwell',
+      role: 'Art Director, CreativeCo',
+      content: 'Working with Aamir khan was an absolute pleasure! Their creativity, attention to detail, and professionalism exceeded my expectations. They perfectly understood my vision and brought it to life with a stunning design.',
+      avatar: '/avatars/emma-thompson.jpg'
+    },
+    {
+      id: 6,
+      name: 'Jane',
+      role: 'Art Director, CreativeCo',
+      content: 'He is very professional and always delivers on time. He is very good at his job.',
+      avatar: '/avatars/emma-thompson.jpg'
+    },
+    {
+      id: 7,
+      name: 'jeana ',
+      role: 'Art Director, CreativeCo',
+      content: 'Did a fantastic job on our project. He is very talented and professional. I would highly recommend him.',
+      avatar: '/avatars/emma-thompson.jpg'
+    },
+    {
+      id: 8,
+      name: 'Allen',
+      role: 'Art Director, CreativeCo',
+      content: 'It was an absolute pleasure working on this project! The communication was clear, feedback was timely, and the professionalism throughout made the entire experience seamless. I would be delighted to work together again.',
+      avatar: '/avatars/emma-thompson.jpg'
+    },
+    {
+      id: 9,
+      name: 'Jackson',
+      role: 'Art Director, CreativeCo',
+      content: 'Working with Amir Khan on this children’s book illustration was fantastic! Amir, an expert in illustration, valued the clear direction and collaborative process. Highly recommended client—looking forward to future opportunities together!.',
+      avatar: '/avatars/emma-thompson.jpg'
+    },
+    {
+      id: 10,
+      name: ' Hannah',
+      role: 'Art Director, CreativeCo',
+      content: 'Aamir did an outstanding job on my presentation! His attention to detail and professionalism were truly impressive, and the final visual appeal was top-notch. Working with him was a breeze thanks to his excellent cooperation, prompt delivery, and exceptional language fluency. Highly recommend!.',
+      avatar: '/avatars/emma-thompson.jpg'
+    },
+    {
+      id: 11,
+      name: 'Betsy',
+      role: 'Art Director, CreativeCo',
+      content: 'He is very professional and always delivers on time, he is very good at his job.',
+      avatar: '/avatars/emma-thompson.jpg'
+    },
+    {
+      id: 12,
+      name: 'Bryan',
+      role: 'Art Director, CreativeCo',
+      content: 'Super quick turnaround and exactly what we wanted. Would use again!',
+      avatar: '/avatars/emma-thompson.jpg'
+    },
+    {
+      id: 13,
+      name: 'Charbel',
+      role: 'Art Director, CreativeCo',
+      content: 'Aamir did a great job understanding our needs and what we needed help with. He created a design that helped our brand. Thank you.',
+      avatar: '/avatars/emma-thompson.jpg'
+    },
+    {
+      id: 14,
+      name: 'Eric Sean',
+      role: 'Art Director, CreativeCo',
+      content: 'Very good designer. Will use again. Highly recommend and would work with him again.',
+      avatar: '/avatars/emma-thompson.jpg'
+    },
+    {
+      id: 15,
+      name: 'Chris Ware',
+      role: 'Art Director, CreativeCo',
+      content: 'Aamir was very communicative and was able to understand what I was asking for and delivered perfectly.',
+      avatar: '/avatars/emma-thompson.jpg'
+    },
   ];
 
   return (

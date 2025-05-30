@@ -73,7 +73,7 @@ const Navbar = () => {
             }}
             whileTap={{ scale: 0.95 }}
           >
-            Hire Me
+            Lets Talk
           </motion.a>
           
           {/* Mobile Menu Button */}

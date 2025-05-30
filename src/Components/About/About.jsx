@@ -3,11 +3,11 @@ import { FiAward, FiBriefcase, FiUsers } from 'react-icons/fi'
 
 const About = () => {
   const skills = [
-    { name: 'Brand Identity', level: 95 },
-    { name: 'UI/UX Design', level: 90 },
-    { name: 'Print Design', level: 85 },
-    { name: 'Illustration', level: 80 },
-    { name: 'Motion Graphics', level: 75 },
+    { name: 'Brand Identity', level: 100 },
+    { name: 'UI/UX Design', level: 95 },
+    { name: 'Print Design', level: 90 },
+    { name: 'Illustration', level: 90 },
+    { name: 'Motion Graphics', level: 80 },
   ]
 
   return (
@@ -23,8 +23,7 @@ const About = () => {
           <h2 className="mb-4">About Me</h2>
           <div className="w-20 h-1 bg-primary mx-auto mb-6"></div>
           <p className="max-w-2xl mx-auto text-lg">
-            With over a decade of experience in the design industry, I specialize in creating 
-            memorable brand identities and engaging user experiences that drive results.
+            Hi! I'm Aamir Khan, a TOP-RATED Branding & Graphic Design Specialist with 8+ years of experience creating high-converting visual identities for startups, agencies, and Fortune 150+ clients worldwide
           </p>
         </motion.div>
         
@@ -38,10 +37,7 @@ const About = () => {
           >
             <h3 className="text-2xl mb-6">Get to know me</h3>
             <p className="mb-6">
-              I'm a passionate graphic designer with a keen eye for detail and a love for 
-              typography and color theory. My approach combines strategic thinking with 
-              creative execution to deliver designs that not only look beautiful but also 
-              achieve business objectives.
+              I'm a Brand Specialist and Graphic Designer passionate about creating impactful brands. I craft clear strategies and translate them into compelling visuals and seamless experiences, helping businesses tell authentic stories that truly connect.
             </p>
             <p className="mb-8">
               When I'm not designing, you can find me teaching design workshops, exploring 

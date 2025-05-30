@@ -4,16 +4,16 @@ import { FiMail, FiPhone, FiMapPin } from 'react-icons/fi';
 
 const Footer = () => {
   const socialLinks = [
-    { icon: <FaLinkedin />, url: '#', name: 'LinkedIn' },
-    { icon: <FaDribbble />, url: '#', name: 'Dribbble' },
-    { icon: <FaBehance />, url: '#', name: 'Behance' },
-    { icon: <FaInstagram />, url: '#', name: 'Instagram' }
+    { icon: <FaLinkedin />, url: 'https://www.linkedin.com/in/aamir-khan-336b4321b/' , name: 'LinkedIn' },
+    // { icon: <FaDribbble />, url: '#', name: 'Dribbble' },
+    { icon: <FaBehance />, url: '', name: 'Behance' },
+    { icon: <FaInstagram />, url: 'https://www.instagram.com/boy_fromthe_north?igsh=NWRpbXducGE1NGJ2', name: 'Instagram' }
   ];
 
   const contactInfo = [
-    { icon: <FiMail />, text: 'hello@janedoe.design', url: 'mailto:hello@janedoe.design' },
-    { icon: <FiPhone />, text: '+1 (234) 567-890', url: 'tel:+1234567890' },
-    { icon: <FiMapPin />, text: 'San Francisco, CA', url: '#' }
+    { icon: <FiMail />, text: 'sokhmir111@gmail', url:'sokhmir111@gmail' },
+    { icon: <FiPhone />, text: '+923485370121', url:'tel:+923485370121' },
+    // { icon: <FiMapPin />, text: '', url: '#' }
   ];
 
   const footerLinks = [
@@ -98,6 +98,7 @@ const Footer = () => {
                 <motion.a
                   key={social.name}
                   href={social.url}
+                  target='blank'
                   className="bg-gray-800 hover:bg-gray-700 w-12 h-12 rounded-full flex items-center justify-center text-xl relative group transition-all"
                   whileHover={{ y: -5 }}
                   transition={{ delay: index * 0.1 }}

@@ -117,3 +117,23 @@ body {
     -moz-osx-font-smoothing: grayscale;
     font-family: 'Inter', sans-serif; /* Example, use your desired font */
 }
+.custom-swiper-pagination .swiper-pagination-bullet {
+  background: #cbd5e0; /* Light gray for inactive dots */
+  opacity: 1;
+}
+
+.custom-swiper-pagination .swiper-pagination-bullet-active {
+  background: #3b82f6; /* Blue for active dot */
+  width: 12px; /* Make active dot slightly wider */
+  border-radius: 6px;
+  transition: width 0.3s ease;
+}
+
+/* Dark mode adjustments */
+.dark .custom-swiper-pagination .swiper-pagination-bullet {
+  background: #4a5568; /* Darker gray for inactive in dark mode */
+}
+
+.dark .custom-swiper-pagination .swiper-pagination-bullet-active {
+  background: #60a5fa; /* Lighter blue for active in dark mode */
+}
