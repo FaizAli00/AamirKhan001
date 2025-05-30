@@ -64,7 +64,7 @@ const Home = () => {
             <div className="relative aspect-square w-full overflow-hidden ">
               {/* Main image */}
               <img 
-                src="/image/ferget.png" 
+                src="/image/ferget2.png" 
                 alt="Aamir Khan" 
                 className="w-full h-full object-cover"
               />
